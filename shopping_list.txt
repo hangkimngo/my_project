@@ -1,0 +1,7 @@
+egg
+noodle
+beef
+shoulder pork
+tofu
+tempeh
+rice
