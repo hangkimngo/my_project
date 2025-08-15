@@ -1,4 +1,4 @@
-egg
+12 eggs
 noodle
 beef
 shoulder pork
